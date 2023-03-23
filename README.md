@@ -1,5 +1,7 @@
 # Домашнее задание к занятию "1. Рабочее окружение"
 
+**CI Test** [![Build status](https://ci.appveyor.com/api/projects/status/84cx0ylvma3l2557?svg=true)](https://ci.appveyor.com/project/kievsan/ahj-env)
+
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
 
 ### Continuous Deployment
